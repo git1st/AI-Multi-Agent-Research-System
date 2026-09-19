@@ -3,7 +3,15 @@ langchain-community
 langchain-core
 langchain-groq
 requests
+# tavily search tools
 tavily-python
 python-dotenv
 langchainhub
 streamlit
+
+#web scraping
+beautifulsoup4
+readability-lxml
+trafilatura
+requests
+lxml
